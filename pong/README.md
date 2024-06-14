@@ -45,7 +45,7 @@ To get a local copy up and running, follow these steps:
 
 - `index.html`: The main HTML file that sets up the canvas.
 - `style.css`: The CSS file that styles the game and ensures it is responsive.
-- `index.js`: The JavaScript file that contains the game logic, rendering, and animation.
+- `script.js`: The JavaScript file that contains the game logic, rendering, and animation.
 
 ---
 

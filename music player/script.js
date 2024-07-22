@@ -101,6 +101,5 @@ function playMusic() {
 }
 
 function seek(e) {
-    const pos = (e.offsetX / prog.clientWidth) * song.duration;
-    song.currentTime = pos;
+    song.currentTime = (e.offsetX / prog.clientWidth) * song.duration;
 }

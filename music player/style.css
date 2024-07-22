@@ -67,9 +67,7 @@ body{
     position: absolute;
     top: 10px;
     left: 10px;
-    background: url("assets/1.jpg");
-    background-repeat: no-repeat;
-    background-position: bottom center;
+    background: url("assets/1.jpg") no-repeat bottom center;
     background-size: cover;
     border: 3px solid #fff;
     border-radius: 50%;
